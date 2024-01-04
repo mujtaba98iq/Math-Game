@@ -1,0 +1,12 @@
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\bin\Debug\Math Game.exe.config
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\bin\Debug\Math Game.exe
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\bin\Debug\Math Game.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.csproj.AssemblyReference.cache
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math_Game.Form1.resources
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math_Game.Properties.Resources.resources
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.csproj.GenerateResource.cache
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.csproj.CoreCompileInputs.cache
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.exe
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math Game.pdb
+C:\Users\mujta\source\repos\C#_Disctop\Math Game\obj\Debug\Math_Game.frmMainForm.resources
